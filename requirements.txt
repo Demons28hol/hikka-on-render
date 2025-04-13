@@ -1,0 +1,10 @@
+telethon
+requests
+pystyle
+pyarmor
+phonenumbers
+colorama
+termcolor
+pyfiglet
+whois
+flask
